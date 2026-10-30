@@ -21,3 +21,8 @@ Android 7.0+ · 无需注册 · 学习记录保存在本机 · 当前版本 2.9
 
 更新
 「我的 → 学习设置 → 检查更新」会从 GitHub Releases 下载新版；Android 会弹系统安装确认，学习进度保留。
+
+## 反馈
+
+遇到 Bug 或想提改进建议，请到 GitHub Issues：
+https://github.com/sy23999277/UpIELTS/issues
