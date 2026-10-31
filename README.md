@@ -16,13 +16,23 @@ Android 7.0+ · 无需注册 · 学习记录保存在本机 · 当前版本 2.9
 听力精听：16 段对话 + 12 篇 TED；AB 循环、单句循环、TED 字幕跳转。
 我的：学习天数、累计词数、掌握、收藏；学习/听力计时；可展开词书进度。
 其他：TTS 美/英音、深色模式、应用内检查更新。
-安装
-从 Releases 下载 APK，允许安装未知来源。首次启动解压约 42 MB，之后可离线使用。
 
 更新
 「我的 → 学习设置 → 检查更新」会从 GitHub Releases 下载新版；Android 会弹系统安装确认，学习进度保留。
 
-## 反馈
-
+安全与版权
+只从本仓库 Releases 下载 APK；其他渠道可能被二次打包。
+非官方个人学习项目，与 IELTS 官方、TED、出版社无隶属关系。
+词库、TED 音频等版权归原作者；公开再分发前请确认授权。详见 SECURITY.md 和 THIRD_PARTY_NOTICES.md。
+反馈
 遇到 Bug 或想提改进建议，请到 GitHub Issues：
+
 https://github.com/sy23999277/UpIELTS/issues
+
+请尽量附上：App 版本、Android 版本、复现步骤和截图。
+
+数据与说明
+词汇来自 hefengxian/my-ielts。
+音标来自 ipa-dict。
+听力来自用户提供的练习播放器素材包。
+非官方个人学习项目；词库和音频请勿商用。
