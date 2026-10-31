@@ -1,0 +1,21 @@
+# Signing secrets — never commit these
+android/keystore.jks
+android/keystore.properties
+**/*.jks
+**/*.keystore
+**/*.p12
+**/*.pfx
+
+# Build outputs
+dist/*.apk
+dist/*.idsig
+android/build/
+android/assets/www/
+
+# Local preview/test files
+app/_preview*.html
+tools/
+browser-screenshots/
+node_modules/
+*.log
+.env
